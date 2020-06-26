@@ -338,6 +338,9 @@ img::-moz-selection {
     font-weight: 600;
     background-color: transparent;
 }
+.product-detail{ 
+    font-family: var(--primary-font);
+}
 .product-detail .breadcrumb .breadcrumb-item a{
     color: var(--secondary-color) !important;
 }
