@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+migrations/
+
+<<<<<<< HEAD
+# hello zzxzzzzzz
+=======
+#hello
+>>>>>>> 1689b61f72f62c59fdad0811b21aa8ce19d5d499
