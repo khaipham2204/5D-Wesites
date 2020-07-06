@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'search',
     'ckeditor',
     'ckeditor_uploader',
+    'download',
 
     'wagtail.contrib.forms',
     'wagtail.contrib.redirects',
